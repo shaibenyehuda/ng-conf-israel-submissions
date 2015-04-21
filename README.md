@@ -17,7 +17,7 @@ TL;DR - Fork & Send a PR with your talk proposal
 
 ## Deadline
 
-The deadline for proposals is April 26, 2015.
+The deadline for proposals is April 21, 2015.
 
 ## Subjects
 
